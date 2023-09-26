@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "cypress": "^13.2.0",
+    "cypress-iframe": "^1.0.1",
+    "cypress-xpath": "^2.0.1"
+  },
+  "scripts": {
+    "cypress:open": "cypress open"
+  }
+}

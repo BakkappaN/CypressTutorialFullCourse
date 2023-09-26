@@ -1,0 +1,57 @@
+{
+  "name": "cypress-iframe",
+  "version": "1.0.1",
+  "description": "Adds iframe support to Cypress",
+  "main": "dist/index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "preversion": "npm test",
+    "postversion": "npm publish",
+    "postpublish": "git push origin --all; git push origin --tags",
+    "prepare": "npm run build",
+    "build": "rm -rf dist && tsc --project ./tsconfig-build.json",
+    "start": "start-server-and-test wp http-get://localhost:9000 \"cypress open\"",
+    "test": "start-server-and-test wp http-get://localhost:9000 \"cypress run\"",
+    "record": "start-server-and-test wp http-get://localhost:9000 \"cypress run --record\"",
+    "wp": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/kgroat/cypress-iframe.git"
+  },
+  "keywords": [
+    "cypress",
+    "iframe",
+    "command",
+    "e2e",
+    "test"
+  ],
+  "author": {
+    "name": "Kevin Groat (kgroat)",
+    "email": "kgroat09@gmail.com",
+    "url": "https://www.kgroat.dev/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/kgroat/cypress-iframe/issues"
+  },
+  "homepage": "https://gitlab.com/kgroat/cypress-iframe#readme",
+  "peerDependencies": {
+    "@types/cypress": "^1.1.0"
+  },
+  "devDependencies": {
+    "@cypress/webpack-preprocessor": "^4.1.1",
+    "@types/cypress": "^1.1.0",
+    "@types/node": "^13.7.0",
+    "@types/webpack": "^4.41.3",
+    "@types/webpack-dev-server": "^3.10.0",
+    "cypress": "^3.8.3",
+    "start-server-and-test": "^1.10.8",
+    "ts-loader": "^6.2.1",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.7.5",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.2"
+  }
+}
