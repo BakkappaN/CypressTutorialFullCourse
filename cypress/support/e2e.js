@@ -30,3 +30,6 @@ if (!app.document.head.querySelector("[data-hide-command-log-request]")) {
 
 //xpath
 require('cypress-xpath')
+
+//mochawesome reporting
+import 'cypress-mochawesome-reporter/register'
