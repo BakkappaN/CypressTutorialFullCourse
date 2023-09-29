@@ -17,6 +17,7 @@ describe('Data Driven Test Suite',()=>{
         cy.get('textarea[type="search"]').type(testData.skill1);
 
         cy.get('button[type="submit"]').click();
+        cy.wait(3000);
     })
 
 })
