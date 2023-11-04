@@ -69,21 +69,59 @@ Cypress Tutorial Full Course #cypress #tutorial #fullcourse #cypresscourse #auto
 22 - Cypress #20 Scroll Down Up in Automation Testing 
      https://www.youtube.com/watch?v=dixZ3Q92frs&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=24
      
-23 -  Cypress #21 Chapter03 Overview End-to-End Testing 
-https://www.youtube.com/watch?v=FtXUl2yHAVQ&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=25
+23 - Cypress #21 Chapter03 Overview End-to-End Testing 
+     https://www.youtube.com/watch?v=FtXUl2yHAVQ&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=25
 
-24 -  Cypress #22 Hooks in Cypress Automation Testing 
-https://www.youtube.com/watch?v=uupWzXHa_GA&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=26
+24 - Cypress #22 Hooks in Cypress Automation Testing 
+     https://www.youtube.com/watch?v=uupWzXHa_GA&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=26
 
-25 -  Cypress #23 Skip a Test in Cypress Web Automation 
-https://www.youtube.com/watch?v=MRmXxdQ3zJA&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=27
+25 - Cypress #23 Skip a Test in Cypress Web Automation 
+     https://www.youtube.com/watch?v=MRmXxdQ3zJA&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=27
 
-26 - 
-27 - 
-28 - 
-29 - 
-30 - 
-31 - 
-32 - 
-33 - 
+26 - Cypress #24 Repeat Test Multiple Times in Web Automation 
+     https://www.youtube.com/watch?v=jtuqTia8MgM&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=28
+
+27 - Cypress #25 Retry ReRun Test Automatically When a Test Failed 
+     https://www.youtube.com/watch?v=KWEgtcaBPCk&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=29
+     
+28 - Cypress #26 How to Generate HTML Report in Cypress 
+     https://www.youtube.com/watch?v=F1k9GJe7W7c&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=30
+     
+29 - Cypress #27 Run Multiple JavaScript Spec Files in Cypress 
+     https://www.youtube.com/watch?v=QmNYZCDmPj4&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=31
+     
+30 - Cypress #28 Run a Group of Tests in Cypress 
+     https://www.youtube.com/watch?v=_NSMtRP9IoA&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=32
+     
+31 - Cypress #29 Chapter04 Overview End-to-End Testing 
+     https://www.youtube.com/watch?v=o_utxdayuOU&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=33
+
+32 - Cypress #30 Data Driven Testing Part01 
+     https://www.youtube.com/watch?v=pHbKRFP33Ps&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=34
+
+33 - Cypress #31 Data Driven Testing Part02 - Multiple Sets Of Test Data 
+     https://www.youtube.com/watch?v=GvdkgqcQOZ8&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=35
+     
+34 - Cypress #32 Page Object Model in Cypress 
+     https://www.youtube.com/watch?v=5rrkqqfwoJU&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=36
+     
+35 - Cypress #33 Video Recording - Test Execution 
+     https://www.youtube.com/watch?v=AjUHKBVFhNs&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=37
+     
+
+### Cypress Tutorial Automation Full Course PART01 - https://www.youtube.com/watch?v=kZbuYLalk9U&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=38
+
+### Cypress Tutorial Automation Full Course PART02 - https://www.youtube.com/watch?v=qa2zygrqV40&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=39
+
+### Cypress Tutorial Automation Full Course PART03 - https://www.youtube.com/watch?v=Df8CXzhG6Vk&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=40
+
+### Cypress Tutorial Automation Full Course PART04 - https://www.youtube.com/watch?v=WaJzoZTdiW0&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=41
+
+
+#Thanks for watching!!! Keep visiting this channel!!! Keep learning!!!
+
+
+
+
+
 
