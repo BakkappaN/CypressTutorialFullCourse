@@ -21,12 +21,24 @@ Cypress Tutorial Full Course #cypress #tutorial #fullcourse #cypresscourse
 06 - Cypress #4 Install Cypress & Scaffold Examples & Test Runner
      https://www.youtube.com/watch?v=gRW79a1DlHQ&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=8
      
-07 - 
-08 - 
-09 - 
-10 - 
-11 - 
-12 - 
+07 - Cypress #5 Folder Structure in Cypress
+     https://www.youtube.com/watch?v=YFv496gHw1E&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=9
+     
+08 - Cypress #6 Cypress Studio - Record and Play Test
+     https://www.youtube.com/watch?v=1aQeNbI07Jk&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=10
+     
+09 - Cypress #7 Write First Cypress Automation Test 
+     https://www.youtube.com/watch?v=Yn3NJfdXVOI&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=11
+     
+10 - Cypress #8 Run Test on Chrome, Edge & Firefox Browsers 
+     https://www.youtube.com/watch?v=ELyoLDDfBbw&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=12
+     
+11 - Cypress #9 Run Test in Headless Mode in Cypress 
+     https://www.youtube.com/watch?v=U4swot55-6M&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=13
+     
+12 - Cypress #10 Stop Disable Auto ReRun Test in Cypress 
+     https://www.youtube.com/watch?v=aTXlMkiJIH8&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=14
+     
 13 - 
 14 - 
 15 - 
